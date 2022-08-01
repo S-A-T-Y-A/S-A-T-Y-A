@@ -8,7 +8,7 @@ I've been learning to code since the pandemic and started with C/C++ and later c
 
 * 🌍  I'm based in India, Andhra Pradesh, Guntur.
 * ✉️  You can contact me at [satyanandan42@gmail.com](mailto:satyanandan42@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Node. 
 * 🤝  I'm open to collaborating on Front End and Back End
 
 ### Skills
